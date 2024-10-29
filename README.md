@@ -2,6 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### `Demo here`
+To view the demo: [click here](https://vermadilip.github.io/github-user-details/)
+
+## Project Name: GitProfile Explorer
+### `Description:`
+GitProfile Explorer is an elegant web application that allows users to search for any GitHub profile by simply entering a username. It provides a sleek, card-based UI with shimmering gold accents for a premium feel. The app displays essential user information such as bio, location, public repositories, and followers in a visually appealing format.
+
+Each follower and following profile is neatly arranged in rows, offering a YouTube-inspired browsing experience. It also integrates Font Awesome icons to enhance the design and includes smooth loading animations using shimmer effects, ensuring a professional and seamless user experience.
+
+With reset functionality to quickly search new profiles, GitProfile Explorer makes it easy to browse and explore developers on GitHub.
+
+![alt text](image.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
